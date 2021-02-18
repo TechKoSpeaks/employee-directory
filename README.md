@@ -50,7 +50,7 @@ Filter the users by at least one property.
 
 ![Screenshot](deployed-app.png)
 
-Link to deployed app: https://techkospeaks.github.io/react-employee-directory
+Link to deployed app: https://techkospeaks.github.io/employee-directory
 
 
 ## License:
