@@ -48,6 +48,8 @@ Filter the users by at least one property.
 
 ## Application:
 
+![Screenshot](deployed-app.png)
+
 Link to deployed app: https://techkospeaks.github.io/react-employee-directory
 
 
