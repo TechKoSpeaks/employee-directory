@@ -1,5 +1,7 @@
 # React-Employee-Directory
 
+*** Disclaimer: This application was rebuilt from previous apps that were deployed incorrectly.***
+
 ## Description:
 This is an Employee Directory application built using React. This app allows business professionals to access necessary employee data and filter for use. Employers can search for specific employees within the search parameters, and sort employees alphabetically.
 
